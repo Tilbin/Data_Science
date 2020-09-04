@@ -4,7 +4,7 @@ This repository contains data science projects done by me as self learning and h
 
 ## Contents
 
-* **Natural Language Processing**
+#### * **Natural Language Processing**
   
-  + <div class="text-blue mb-2"> Text Classification for jobs</div> : Classifying jobs as real or fake   using Support Vector Machine( LinearSVC), Xtreme Gradient Boosting Tree(XGBoost) and Random Forest(RandomForest) in Python.
-  *Tools: Scikitlearn, Spacy.
+  + **Text Classification for jobs**: Classifying jobs as real or fake   using Support Vector Machine( LinearSVC), Xtreme Gradient Boosting Tree(XGBoost) and Random Forest(RandomForest) in Python.
+ *Tools: Scikitlearn, Spacy*.
